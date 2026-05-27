@@ -50,6 +50,22 @@ https://ai-resume-analyzer-eight-sigma.vercel.app/
 
 ---
 
+### 🔹 Stock Market Prediction using XGBoost
+
+Machine learning-based stock market forecasting system developed using technical analysis indicators, feature engineering, and XGBoost regression to generate predictive insights from historical financial market data.
+
+Key concepts explored:
+- Technical Indicators
+- Feature Engineering
+- XGBoost Regression
+- Financial Data Analysis
+- Machine Learning Workflow
+
+🔗 Repository:  
+https://github.com/Dhruv-0612/stock-market-price-prediction-xgboost
+
+---
+
 ## 🎯 Goals
 
 - Pursuing advanced studies in Artificial Intelligence
