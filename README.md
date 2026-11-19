@@ -39,7 +39,7 @@ AI-powered document assistant that allows users to upload multiple PDFs, compare
 🔗 Live Demo:  
 https://multi-doc-rag-assistant.vercel.app/
 
-**Source Code:**
+Source Code:
 [GitHub Repository] - (https://github.com/Dhruv-0612/multi-doc-rag-assistant)
 
 ---
@@ -51,7 +51,7 @@ Full-stack AI resume analyzer that provides ATS-style scoring, resume validation
 🔗 Live Demo:
 https://ai-resume-analyzer-eight-sigma.vercel.app/
 
-**Source Code:** 
+Source Code:
 [GitHub Repository] - (https://github.com/Dhruv-0612/ai-resume-analyzer)
 
 ---
