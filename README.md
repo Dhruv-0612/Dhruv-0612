@@ -36,7 +36,7 @@ Currently exploring scalable AI systems, intelligent applications, and modern ba
 
 AI-powered document assistant that allows users to upload multiple PDFs, compare documents, and receive source-backed answers using Retrieval-Augmented Generation (RAG).
 
-🔗 Live Demo:  
+🔗 Live Demo:
 https://multi-doc-rag-assistant.vercel.app/
 
 **Source Code:**
